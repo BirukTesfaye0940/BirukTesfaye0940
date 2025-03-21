@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Biruk Tesfaye</h1>
-<h3 align="center">A passionate Full stack developer from Ethiopia.</h3>
+<h3 align="center">I am a Full Stack Developer based in Ethiopia, currently pursuing my Bachelor's degree in Computer Engineering. I contribute to both frontend and backend development, specializing in building robust web applications.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biruktesfaye0940" alt="biruktesfaye0940" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/biruk_tesfu0" target="blank"><img src="https://img.shields.io/twitter/follow/biruk_tesfu0?logo=twitter&style=for-the-badge" alt="biruk_tesfu0" /></a> </p>
 
 - 🔭 I’m currently working on [Inventory Management System](https://inventory-saas-front.onrender.com/)
+
+- 🌱 I’m currently learning **Godot Engine**
+
+- 👯 Here are some other interests and activities I'm passionate about **Exploring modern JavaScript frameworks like React for frontend and NestJS for backend development while optimizing performance and scalability. Experimenting with different database technologies, including MongoDB, and refining query optimization techniques for efficiency. Attending tech meetups, workshops, and hackathons to stay updated on industry trends and network with like-minded developers.**
 
 - 📫 How to reach me **biruktesfayeakabu@gmail.com**
 

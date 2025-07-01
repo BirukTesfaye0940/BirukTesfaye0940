@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Inventory Management System](https://inventory-saas-front.onrender.com/)
 
-- 🌱 I’m currently learning **Godot Engine**
+- 🌱 I’m currently learning **nx monorepo**
 
 - 👯 Here are some other interests and activities I'm passionate about **Exploring modern JavaScript frameworks like React for frontend and NestJS for backend development while optimizing performance and scalability. Experimenting with different database technologies, including MongoDB, and refining query optimization techniques for efficiency. Attending tech meetups, workshops, and hackathons to stay updated on industry trends and network with like-minded developers.**
 

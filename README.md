@@ -51,16 +51,3 @@ _B.Sc. in Computer Engineering | Passionate about building robust, scalable web 
 📧 Email: biruktesfayeakabu@gmail.com
 
 ---
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biruktesfaye0940&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=biruktesfaye0940&" alt="GitHub Streak" height="150"/>
-    </td>
-  </tr>
-</table>

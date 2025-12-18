@@ -11,7 +11,7 @@ _B.Sc. in Computer Engineering | Passionate about building robust, scalable web 
 - 💡 I love working across the stack, from modern React frontends to robust Node.js/NestJS backends.
 - 🧩 Currently exploring **nx monorepos**, advanced state management, and cross-platform development with Flutter.
 - 🌱 Always learning, always improving — from databases and DevOps to UI/UX and emerging frameworks.
-- 🛠️ Recent project: [Inventory Management System](https://inventory-saas-front.onrender.com/)
+- 🛠️ Recent project: [Fit-track API with FastAPI](https://github.com/BirukTesfaye0940/Fit-track)
 
 ---
 
